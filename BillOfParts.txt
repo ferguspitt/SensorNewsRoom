@@ -1,0 +1,7 @@
+
+Dust Sensor: Sharp GP2Y1010
+Electret Microphone Breakout: BOB-09964 ROHS
+CPU: ATMega328p
+Real Time Clock Module: BOB-12708 ROHS
+Housing: Dry Storage Box
+Battery Power: LiPo Charge, 5.0 Amps, 11.1V, 3S
